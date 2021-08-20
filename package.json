@@ -1,0 +1,11 @@
+{
+  "name": "@itsland0n/utilities",
+  "version": "1.0.0",
+  "description": "General utility features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "itsland0n",
+  "license": "ISC"
+}
